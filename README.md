@@ -1,1 +1,0 @@
-# vendedorjujuy_V3.1
